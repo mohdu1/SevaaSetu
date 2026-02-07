@@ -22,4 +22,18 @@ If you are a new developer joining the team, follow these steps to get started:
 ### 1. Clone the Repository
 ```bash
 git clone [https://github.com/YOUR_GITHUB_USERNAME/SevaaSetu.git](https://github.com/YOUR_GITHUB_USERNAME/SevaaSetu.git)
+<<<<<<< HEAD
 cd SevaaSetu
+=======
+cd SevaaSetu
+```
+### 2. Install Dependencies
+```bash
+npm install
+```
+### 3. Start the Development Server
+```bash
+npm run dev
+```
+The site will be available at http://localhost:8080 (or similar).
+>>>>>>> 3d1afdd52d41bbccb79a6f5b4cad644d7cc82b48
