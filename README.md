@@ -2,8 +2,6 @@
 
 **SevaaSetu** is a digital bridge connecting passionate volunteers with trusted NGOs across India. Our mission is to close the gap between *intent* and *action* by providing a seamless platform for civic engagement.
 
-![SevaaSetu Banner](public/logo.png)
-
 ## 🚀 Tech Stack
 
 This project is built with a modern, high-performance frontend stack:
