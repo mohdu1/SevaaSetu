@@ -22,9 +22,6 @@ If you are a new developer joining the team, follow these steps to get started:
 ### 1. Clone the Repository
 ```bash
 git clone [https://github.com/mohdu1/SevaaSetu.git]
-<<<<<<< HEAD
-cd SevaaSetu
-=======
 cd SevaaSetu
 ```
 ### 2. Install Dependencies
