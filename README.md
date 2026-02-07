@@ -36,4 +36,3 @@ npm install
 npm run dev
 ```
 The site will be available at http://localhost:8080 (or similar).
->>>>>>> 3d1afdd52d41bbccb79a6f5b4cad644d7cc82b48
